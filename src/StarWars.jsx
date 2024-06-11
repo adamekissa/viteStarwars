@@ -5,11 +5,11 @@ function StarWars(){
     <section>
     <nav>
       <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="galary.html">Galary</a></li>
-        <li><a href="cast.html">About the Cast and Details</a></li>
-        <li><a href=" contactus.html">Contact us</a></li>
-        <li><a href="https://www.starwars.com/">Read more here</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Galary</a></li>
+        <li><a href="#">About the Cast and Details</a></li>
+        <li><a href=" #">Contact us</a></li>
+        <li><a href="#">Read more here</a></li>
       </ul>
     </nav>
     <header>
