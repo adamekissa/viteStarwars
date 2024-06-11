@@ -1,9 +1,11 @@
 import strLogo from './images/Star-wars-logo.webp'
+import './Strwrs.css'
+// import './App.css'
 
 function StarWars(){
     return (<>
     <section>
-    <nav>
+    <nav className='navv'>
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Galary</a></li>
@@ -12,7 +14,7 @@ function StarWars(){
         <li><a href="#">Read more here</a></li>
       </ul>
     </nav>
-    <header>
+    <header className='hd'>
       <h2>Star Wars now</h2>
     </header>
   </section>
